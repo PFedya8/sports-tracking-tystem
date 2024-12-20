@@ -1,0 +1,8 @@
+train: /opt/notebooks/sports-tracking-tystem/dataset/images/train
+val: /opt/notebooks/sports-tracking-tystem/dataset/images/val
+test: /opt/notebooks/sports-tracking-tystem/dataset/images/test
+names:
+  0: not_visible
+  1: easy_visible
+  2: visible_not_easy
+  3: hidden
