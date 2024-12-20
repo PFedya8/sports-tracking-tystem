@@ -1,0 +1,5 @@
+train: /opt/notebooks/sports-tracking-tystem/data/yolo/images/train
+val: /opt/notebooks/sports-tracking-tystem/data/yolo/images/val
+# test: /opt/notebooks/sports-tracking-tystem/data/images/test
+nc: 1  # Число классов (например, только "мяч")
+names: ['ball']  # Название классов
