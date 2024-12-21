@@ -1,8 +1,10 @@
 # sports-tracking-system
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://drive.google.com/file/d/1jY5xqpkoQtrRDGvaIYSNKDni5GCVSqko/view?usp=sharing)
+[![Open in Kaggle](https://kaggle.com/static/images/open-in-kaggle.svg)](https://www.kaggle.com/code/fedor8/tennis)
 
 ## Описание
-Sport tracking использует модель YOLO
+Sport tracking использует модель YOLO для трекинга теннисного мяча. 
+В ноутбуке Kaggle нет необходимости скачивать датасет. 
 
 Создаются доп дирректории куда кладутся преобразованные к формату YOLO изображения и лейблы
 ## Дополнительные реализованные опции
